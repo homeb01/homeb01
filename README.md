@@ -1,3 +1,4 @@
-- 👋 Hola, soy @homeb01
-- 🌱 Soy estudiante de la carrera de Software de la Escuela Superior Politécnica de Chimborazo, Ecuador
-- 📫 Mi correo institucional: homero.barragan@espoch.edu.ec / Mi correo personal: homero.barragan02@gmail.com
+- 👋 Hey! I'm @homeb01
+- 🌱 Software engineering student 🧑‍💻 at Escuela Superior Politecnica de Chimborazo / Ecuador 🏞️
+- 📫 Contact me: homero.barragan@espoch.edu.ec
+- 📫 Personal mail: homero.barragan02@gmail.com
